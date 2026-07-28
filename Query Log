@@ -1,0 +1,9 @@
+# Week 9 Query Log
+
+Use this to show how I gathered information.
+
+| # | Question, Search, Or Problem                                 | Source Used                                               | Answer Or Result                                                           | Next Action                                                              |
+| - | ------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1 | How do I use arrays and loops in Visual Basic?               | YouTube tutorial provided for the assignment              | Learned how to create an array and use For, While, and Do While loops      | Used loops and arrays in my Pathway A and Pathway B projects             |
+| 2 | How do I change the menu choices in the starter console app? | Pathway A starter code and testing output                 | Learned how the array controls the menu options that appear in the console | Changed the choices to match my Midnight Mixx theme                      |
+| 3 | How do I display items from an array in a WPF application?   | Pathway B VB.NET loops tutorial and Visual Studio testing | Learned how to use a loop to display multiple items from an array          | Created my MusicWorlds array and displayed the choices in my WPF project |
