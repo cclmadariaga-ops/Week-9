@@ -1,0 +1,61 @@
+# Week 9 Reflection: Weeks 6-8
+
+## Name
+
+*Cecilia Madariaga*
+
+## Project or App Name
+
+**Midnight Mixx**
+
+## Part 1: Development Process
+
+During Weeks 6-8, I worked on building my Midnight Mixx project by starting with the idea of making a music organization app. I created folders for things like songs, playlists, artwork, documents, and project data. I also worked on saving project information using JSON and learned how to organize information better inside my program. While developing the project, I tested my code often and fixed errors when things did not work correctly. Some problems I had were with file paths, procedures, and making sure the program was saving information correctly.
+
+## Part 2: Querying And Research
+
+| Question or Need                      | Where I Looked                                 | What I Learned                                                              | How I Used It                                                    |
+| ------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| How do loops work in VB.NET?          | The tutorial video provided for the assignment | Learned how to use For, While, and Do While loops                           | Used loops in my console app and WPF project                     |
+| How do I save information as JSON?    | The tutorial video provided for the assignment | Learned how JSON can store project information and how objects can be saved | Used JSON to save my Midnight Mixx project information           |
+| How do I fix errors in Visual Studio? | Discord and Google searches                    | Learned how to find mistakes and troubleshoot errors in my code             | Used the information to fix problems and get my projects running |
+
+## Part 3: Code Does Not Live Alone
+
+Code is not just about knowing how to program. It also requires communication, teamwork, and problem solving. Hard skills like writing code, debugging, and learning programming concepts are important, but soft skills like asking questions and explaining problems are also needed. Other people help through tutorials, documentation, Discord, and examples. Computers and software tools also play a big role because they allow us to create, test, and run our programs.
+
+## Part 4: What I Would Change
+
+If I could redo Weeks 6-8, I would spend more time organizing my project earlier and keeping better notes while I was working. I would also test smaller parts of my code more often instead of waiting until the whole project was finished. I would ask for help sooner when I ran into problems and make more frequent GitHub updates.
+
+## Part 5: Week 9 Coding Practice
+
+### Pathway A: Text Starter Code
+
+The Pathway A starter code creates a menu program where users can pick different choices. The program uses an array to store the choices and loops to display the menu and keep the program running. I changed the original choices to fit my Midnight Mixx music theme.
+
+* **Array used:** `storyChoices()`
+* **Loop used to display choices:** `For...Next`
+* **Loop used to repeat the program:** `Do While`
+* **Three choices I changed:**
+
+  * Create a Dreamscape Playlist
+  * Add songs to Chill Mode
+  * Explore the Energy music world
+  * Customize your album artwork
+
+### Pathway B: Video Tutorial
+
+For Pathway B, I followed the VB.NET loops tutorial and created a WPF application that uses loops to display information. My personal change was adding my own music list instead of using the example from the tutorial.
+
+* **Project from the video:** VB.NET WPF Loop Project
+* **Loop or loops used:** While loop
+* **My small personal change:** Added a MusicWorlds array with my own music categories like Dreamscape, Chill, Energy, and Relaxation.
+* **Screenshot location:** `Screenshots/`
+
+## Part 6: Git Submission Map
+
+GameLoop & XAML = Pathway B
+Program.vb = Pathway A
+README.md
+Screenshots of code working with changes. 
