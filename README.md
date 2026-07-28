@@ -39,9 +39,9 @@ My personal changes to the tutorial project
 
 Screenshots
 Location:
-Screenshot 2026-07-27 173654 (Pathway A Screenshot)
-Screenshot 2026-07-27 174043 (Pathway A Screnshot) 
-Screenshot 2026-07-27 174203 (pathway B screenshot)
+Screenshot 2026-07-27 173654 (Pathway B Screenshot)
+Screenshot 2026-07-27 174043 (Pathway A code Screnshot) 
+Screenshot 2026-07-27 174203 (pathway A running screenshot)
 Screenshot 2026-07-27 183754 (discord screenshot)
 Includes:
 Pathway A code screenshot
