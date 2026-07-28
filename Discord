@@ -1,0 +1,32 @@
+Week 9 Progress Post
+App or practice name:
+Midnight Mixx VB.NET Loops and Arrays Practice
+One thing I learned from Weeks 6-8:
+I learned how to use arrays and different types of loops in Visual Basic. I learned that arrays can store multiple pieces of information and loops can be used to display or repeat actions without writing the same code over and over.
+One question I had to ask or search:
+How do I use an array with a loop to display menu choices in Visual Basic?
+One source that helped me:
+The VB.NET loops tutorial video provided for the assignment helped me understand how arrays and loops work.
+How code connects to people, machines, or documentation:
+Code connects to people because programmers need to communicate, ask questions, and work with others to solve problems. It connects to machines because computers run the instructions we create. Documentation helps people understand how code works and how to use it correctly.
+My loops and arrays practice uses:
+Array: storyChoices() in Pathway A and MusicWorlds() in Pathway B
+For...Next: Displays the menu choices from the array in Pathway A
+For Each: Displays the user's selected choices in the session recap
+Do...Loop: Keeps the Pathway A menu running until the user exits
+Pathway A text starter project status:
+Completed. I ran the starter code, changed the menu choices to match my Midnight Mixx theme, and tested the console output.
+Pathway B video tutorial project status:
+Completed. I followed the VB.NET loops tutorial and created a WPF project that displays my own music world choices.
+My small change:
+I changed the examples from the tutorial and added my own music-themed choices, including Dreamscape, Chill, Energy, and Relaxation.
+Project link:
+
+Root README location:
+README.md in the root folder of my Git repository
+Screenshot proof included in repo:
+Program.vb code screenshot
+Console output screenshot
+Pathway A project running screenshot
+Pathway B running screenshot
+Discord proof screenshot
