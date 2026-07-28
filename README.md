@@ -1,15 +1,19 @@
 Week 9 VB.NET Loops and Arrays
+
 Project Overview
 This repo contains my Week 9 VB.NET projects. I completed Pathway A (Console App) and Pathway B (WPF Loops Project). I practiced using arrays, loops, and making my own changes to the projects.
+
 Files and Locations
 Reflection
 Location:
 Reflection
 Contains my Week 9 reflection.
+
 Query Log
 Location:
 Query Log
 Contains my questions, sources, and what I learned.
+
 Pathway A Code
 Location:
 Pathway A Code
@@ -20,6 +24,7 @@ For...Next loop
 Do While loop
 For Each loop
 My Midnight Mixx menu changes
+
 Pathway B Code
 Location:
 Pathway B Code MainWindow
@@ -31,21 +36,27 @@ Includes:
 MusicWorlds array
 Loop practice
 My personal changes to the tutorial project
+
 Screenshots
 Location:
-Screenshots
+Screenshot 2026-07-27 173654
+Screenshot 2026-07-27 174043
+Screenshot 2026-07-27 174203
+Screenshot 2026-07-27 
 Includes:
 Pathway A code screenshot
 Pathway A console output screenshot
 Pathway B app screenshot
-Discord proof screenshot
+Discord proof txt 
 Location:
 Discord
 Contains my Discord text 
+
 Tutorial Video
 Location:
-VB.NET Loops Tutorial Video
+Loops in VB.NET Loops Tutorial Video
 Contains the tutorial used for Pathway B.
+
 Completed Requirements
 Pathway A completed
 Pathway B completed
