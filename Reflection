@@ -14,11 +14,15 @@ During Weeks 6-8, I worked on building my Midnight Mixx project by starting with
 
 ## Part 2: Querying And Research
 
-| Question or Need                      | Where I Looked                                 | What I Learned                                                              | How I Used It                                                    |
-| ------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| How do loops work in VB.NET?          | The tutorial video provided for the assignment | Learned how to use For, While, and Do While loops                           | Used loops in my console app and WPF project                     |
-| How do I save information as JSON?    | The tutorial video provided for the assignment | Learned how JSON can store project information and how objects can be saved | Used JSON to save my Midnight Mixx project information           |
-| How do I fix errors in Visual Studio? | Discord and Google searches                    | Learned how to find mistakes and troubleshoot errors in my code             | Used the information to fix problems and get my projects running |
+# Week 9 Query Log
+
+Use this to show how I gathered information.
+
+| # | Question, Search, Or Problem                                 | Source Used                                               | Answer Or Result                                                           | Next Action                                                              |
+| - | ------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1 | How do I use arrays and loops in Visual Basic?               | YouTube tutorial provided for the assignment              | Learned how to create an array and use For, While, and Do While loops      | Used loops and arrays in my Pathway A and Pathway B projects             |
+| 2 | How do I change the menu choices in the starter console app? | Pathway A starter code and testing output                 | Learned how the array controls the menu options that appear in the console | Changed the choices to match my Midnight Mixx theme                      |
+| 3 | How do I display items from an array in a WPF application?   | Pathway B VB.NET loops tutorial and Visual Studio testing | Learned how to use a loop to display multiple items from an array          | Created my MusicWorlds array and displayed the choices in my WPF project |
 
 ## Part 3: Code Does Not Live Alone
 
