@@ -1,0 +1,45 @@
+﻿Class MainWindow
+
+    'array 
+    Private MusicWorlds() As String = {"dreamscape", "chill", "energy", "relaxation", "Late night drive"}
+    Private Sub btnLoop_Click(sender As Object, e As RoutedEventArgs) Handles btnLoop.Click
+        txtData.Text = ""
+        lstData.Items.Clear()
+        '' For loop
+        'For intCount = 1 To 5
+        '    txtData.Text += intCount.ToString() + vbCrLf
+        'For intCount2 = 0 To 20
+        '    lstData.Items.Add("This is an Item " & intCount2.ToString() & " Finally!")
+        'List folders in root dir
+        'For Each strFolder As String In
+        '        System.IO.Directory.GetDirectories("C:\")
+        '    'Add these items to the list
+        '    lstData.Items.Add(strFolder)
+        '    txtData.Text += strFolder + vbCrLf
+        'Next
+
+
+        Dim index As Integer = 0
+
+        'loop that dispalys the array of music worlds
+        While Index < MusicWorlds.Length
+
+            txtData.Text &= MusicWorlds(index) & vbCrLf
+            lstData.Items.Add(MusicWorlds(index))
+
+            index += 1
+
+        End While
+
+
+    End Sub
+
+    Private Sub btnClear_Click(sender As Object, e As RoutedEventArgs) Handles btnClear.Click
+
+        lstData.Items.Clear()
+        txtData.Text = ""
+
+    End Sub
+
+
+End Class
