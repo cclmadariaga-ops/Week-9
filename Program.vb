@@ -1,4 +1,13 @@
 Option Strict On
+'Pathway A Code Explanation' 
+
+'' For Pathway A, I created a console menu program called Midnight Mixx. I changed the original choices from the starter code And made them match my own music theme.
+'' The array In my program Is called storyChoices(). It stores all Of the menu choices that the user can pick from. Using an array makes it easier To keep multiple choices together instead of making a separate variable For Each one.
+'' The For...Next loop Is used to show the choices from the array. It goes through each item And displays the menu options with a number next to them.
+'' The Do While loop keeps the program running. The menu will continue to appear until the user chooses 0 to exit the program.
+'' The For Each loop Is used when showing the user's history at the end. It goes through each choice the user selected and displays it.
+'' This project helped Me understand how arrays And loops work together In Visual Basic. I learned how loops can repeat actions And how arrays can store information that the program can use.
+
 
 Module Week9LoopsAndArrays
 
