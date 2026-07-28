@@ -8,19 +8,19 @@
         Title="Ever After Cafe" Height="450" Width="800">
     <Grid>
         <Button x:Name="btnLoop" 
-                Content="Loop" Margin="25,25,0,0"
+                Content="Show Music Worlds" Margin="31,123,0,0"
                 HorizontalAlignment="Left"
                 VerticalAlignment="Top"
-                Width="100" 
+                Width="120" 
                 Height="35"
-                Click="btnLoop_Click"/> 
+                Click="btnLoop_Click"/>
         <TextBox x:Name="txtData"
                  HorizontalAlignment="Left"
-                 Margin="240,29,0,0"
+                 Margin="351,133,0,0"
                  TextWrapping="Wrap"
                  VerticalAlignment="Top"
-                 Height="190"
-                 Width="98" />
+                 Height="217"
+                 Width="180" />
         <ListBox x:Name="lstData" 
                  HorizontalAlignment="Left"
                  Height="auto"
@@ -28,12 +28,12 @@
                  VerticalAlignment="Top"
                  Width="137" />
         <Button x:Name="btnClear" 
-                Content="Clear" Margin="25,89,0,0"
+                Content="Clear" Margin="31,170,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Width="100" 
             Height="35"
-            Click="btnClear_Click"/>    
+            Click="btnClear_Click"/>
 
 
     </Grid>
